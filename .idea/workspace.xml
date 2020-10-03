@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Elmi_Emulator" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -53,11 +57,12 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="memory.settings.postsync.last.time.stamp" value="1601735238292" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit.candycoded in app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -77,6 +82,19 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="candycoded in app" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+      <module name="app" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -149,37 +167,77 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="To verify your work on Pluralsight">
+      <created>1601737462217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601737462218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="To verify your work on Pluralsight" />
+    <option name="LAST_COMMIT_MESSAGE" value="To verify your work on Pluralsight" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="295" y="112" key="#candycoded_in_app" timestamp="1601737931434">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="295" y="112" key="#candycoded_in_app/0.23.1440.826@0.23.1440.826" timestamp="1601737931434" />
     <state x="554" y="332" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601661780277">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="554" y="332" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.828@0.23.1440.828" timestamp="1601661780277" />
-    <state x="310" y="39" key="CommitChangelistDialog2" timestamp="1601737381012">
+    <state x="310" y="39" key="CommitChangelistDialog2" timestamp="1601737461608">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="310" y="39" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1601737381012" />
-    <state width="1358" height="200" key="GridCell.Tab.0.bottom" timestamp="1601737053193">
+    <state x="310" y="39" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1601737461608" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1601742008792">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1601741238334" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1601737468245" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601742008792" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1601742008789">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1601741238334" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1601737468244" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1601742008789" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1601742008789">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1601741238333" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1601737468244" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1601742008789" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1601742008791">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1601741238334" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1601737468245" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1601742008791" />
+    <state width="1358" height="249" key="GridCell.Tab.1.bottom" timestamp="1601738273597">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1601738273597" />
+    <state width="1358" height="249" key="GridCell.Tab.1.center" timestamp="1601738273596">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1601738273596" />
+    <state width="1358" height="249" key="GridCell.Tab.1.left" timestamp="1601738273595">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1601738273595" />
+    <state width="1358" height="249" key="GridCell.Tab.1.right" timestamp="1601738273596">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1601738273596" />
+    <state x="229" y="75" key="SettingsEditor" timestamp="1601737629191">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1601737053193" />
-    <state width="1358" height="200" key="GridCell.Tab.0.center" timestamp="1601737053192">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1601737053192" />
-    <state width="1358" height="200" key="GridCell.Tab.0.left" timestamp="1601737053190">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1601737053190" />
-    <state width="1358" height="200" key="GridCell.Tab.0.right" timestamp="1601737053193">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1601737053193" />
-    <state x="229" y="75" key="SettingsEditor" timestamp="1601736801833">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="229" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1601736801833" />
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1601737629191" />
     <state x="120" y="143" width="1200" height="586" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601661890301">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
